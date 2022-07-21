@@ -1,2 +1,2 @@
-# E-commers
+# eCommerce
 Project Magang Sahaware teknologi indonesia ( POLBENG )
